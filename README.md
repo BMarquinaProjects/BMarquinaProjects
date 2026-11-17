@@ -1,16 +1,14 @@
-## Hi there 👋
+### Beltrán Marquina · ingeniero electrónico
 
-<!--
-**BMarquinaProjects/BMarquinaProjects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Firmware, diseño de PCB y automatización industrial (PLC y HMI Siemens). Burgos.
 
-Here are some ideas to get you started:
+**En qué estoy**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Taller**: simulador de placas ESP32 y componentes, con el firmware de verdad. Su emulador es público: [taller-qemu](https://github.com/BMarquinaProjects/taller-qemu).
+- **Draupnir**: analizador lógico de 8 canales sobre PCB propia (Pi Pico · KiCad). En esquema.
+- **Telamon** y **Narthex**: carga electrónica y fuente de banco por USB-C. En especificación.
+
+**Hecho**
+
+- TFG: nueva HMI Siemens para máquina herramienta, validada en banco (SIL y HIL).
+- Rotaciones UCI: planificador de turnos, en uso en el HUBU.
